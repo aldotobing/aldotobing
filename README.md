@@ -100,9 +100,10 @@ const dailyRoutine = {
 ## 🌐 Spawn Points
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Join_My_Guild-black?style=for-the-badge&logo=github)](https://github.com/aldotobing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aldo-tobing-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_My_Quest-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/aldo_tobing)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/aldotobing)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/aldo-tobing-dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/aldo_tobing)
+
 
 </div>
 
@@ -113,11 +114,5 @@ const dailyRoutine = {
 ### 🎮 "git commit -m 'Level Up Complete!'" 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-```
-       🍺
-   DEBUG ME
-   IF YOU CAN
-```
 
 </div>
