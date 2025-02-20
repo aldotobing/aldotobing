@@ -37,6 +37,15 @@ const aldoTobing = {
 
 </div>
 
+## 💪 GitHub Stats
+
+<div align="center">
+
+![Aldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldotobing&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotobing&layout=compact&theme=dark)
+
+</div>
+
 ## 📊 Activity Log
 
 ```text
