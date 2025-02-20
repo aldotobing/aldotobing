@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Architect+%26+DevOps+Engineer;Building+Scalable+Digital+Dreams;Automating+Everything+Possible;Master+of+Coffee-Driven+Development)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280" />
-
 [![Total Time Coded](https://wakatime.com/badge/user/47ffb9be-15c6-43c2-9d44-2e2631303af9.svg)](https://wakatime.com/@47ffb9be-15c6-43c2-9d44-2e2631303af9)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aldotobing.aldotobing)
 
@@ -40,8 +38,6 @@ const aldoTobing = {
 ## 💪 GitHub Stats
 
 <div align="center">
-
-![Aldo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldotobing&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotobing&layout=compact&theme=dark)
 
 </div>
