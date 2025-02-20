@@ -32,7 +32,7 @@ const aldoTobing = {
 ## 🔧 Tech Arsenal & Power-Ups
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,postgres,docker,linux,bash,nginx,redis,aws,git,bitbucket&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,javasript,typescript,postgres,docker,linux,bash,nginx,redis,aws,git,bitbucket&theme=dark)](https://skillicons.dev)
 
 </div>
 
