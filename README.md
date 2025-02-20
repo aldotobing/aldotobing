@@ -34,8 +34,8 @@ I'm a passionate software developer who thrives on crafting clean, efficient, an
 
 #### 👉 **Let's Connect!**
 - GitHub: [aldotobing](https://github.com/aldotobing)
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)
-- Twitter: [YourTwitter](https://twitter.com/YourTwitter)
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/aldo-tobing-dev)
+- Twitter: [YourTwitter](https://twitter.com/aldo_tobing)
 
 ---
 
