@@ -110,10 +110,11 @@ const dailyRoutine = {
 
 ---
 
-<div align="left">
+<div align="center">
   
 ### 🎮 "git commit -m 'Level Up Complete!'" 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="400"/>
 
 </div>
+
