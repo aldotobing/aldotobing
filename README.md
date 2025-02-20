@@ -38,7 +38,8 @@ const aldoTobing = {
 ## 💪 GitHub Stats
 
 <div align="center">
-![Aldo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldotobing&theme=dark&hide_border=true)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotobing&layout=compact&theme=dark)
 
 </div>
 
