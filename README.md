@@ -110,7 +110,7 @@ const dailyRoutine = {
 
 ---
 
-<div align="center">
+<div align="left">
   
 ### 🎮 "git commit -m 'Level Up Complete!'" 
 
