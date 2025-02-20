@@ -3,7 +3,7 @@
 # 👨‍💻 Hello World, I'm Aldo! 
 *Where code meets philosophy, and bugs meet their match* 🎯
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Architect+%26+DevOps+Engineer;Building+Scalable+Digital+Dreams;Automating+Everything+Possible;Professional+Bug+Hunter;Master+of+Coffee-Driven+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Architect+%26+DevOps+Engineer;Building+Scalable+Digital+Dreams;Automating+Everything+Possible;Master+of+Coffee-Driven+Development)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280" />
 
