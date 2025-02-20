@@ -3,8 +3,6 @@
 # 👨‍💻 Hello World, I'm Aldo! 
 *Where code meets philosophy, and bugs meet their match* 🎯
 
-<div align="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Architect+%26+DevOps+Engineer;Building+Scalable+Digital+Dreams;Automating+Everything+Possible;Professional+Bug+Hunter;Master+of+Coffee-Driven+Development)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280" />
@@ -40,6 +38,7 @@ const aldoTobing = {
 </div>
 
 ## 📊 Activity Log
+
 ```text
 🌅 Morning: Summoning containers with Docker spells
 🌞 Afternoon: Slaying bugs and optimizing queries
@@ -82,6 +81,7 @@ while True:
 </div>
 
 ## 🎮 Daily Quest Log
+
 ```javascript
 const dailyRoutine = {
     morning: ["Summon Coffee", "Read Tech Scrolls", "Plan Attack Strategy"],
