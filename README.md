@@ -52,7 +52,7 @@ func whoAmI() Developer {
 ## 🎨 Tech Palette
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,postgres,docker,linux,nginx,redis,aws,git,bitbucket&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,javascript,typescript,postgres,docker,linux,nginx,redis,aws,git,bitbucket&theme=dark)](https://skillicons.dev)
 
 </div>
 
