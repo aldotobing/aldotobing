@@ -41,7 +41,7 @@ const aldoTobing = {
 
 <div align="center">
 
-![Aldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldotobing&show_icons=true&theme=dark)
+![Aldo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldotobing&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotobing&layout=compact&theme=dark)
 
 </div>
