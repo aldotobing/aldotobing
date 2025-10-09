@@ -14,7 +14,7 @@
 ## 🔧 Tech Arsenal & Power-Ups
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,javascript,typescript,postgres,cloudflare,docker,linux,bash,nginx,redis,aws,git,bitbucket&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,javascript,typescript,postgres,mongodb,cloudflare,docker,linux,bash,nginx,redis,aws,git,bitbucket&theme=dark)](https://skillicons.dev)
 
 </div>
 
