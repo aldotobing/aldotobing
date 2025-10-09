@@ -11,24 +11,6 @@
 
 </div>
 
-## 🎮 Character Stats
-
-```css
-const aldoTobing = {
-    class: "Backend Architect",
-    race: "DevOps Engineer",
-    stats: {
-        intelligence: 90,
-        debugging: 85,
-        coffee_resistance: 95,
-        beer_appreciation: 100,
-        philosophy: "Is a bug just an undocumented feature? 🤔"
-    },
-    current_quest: "Optimizing the Matrix...",
-    achievement_unlocked: "Built systems that scale to infinity and beyond! 🚀"
-}
-```
-
 ## 🔧 Tech Arsenal & Power-Ups
 <div align="center">
 
@@ -41,49 +23,6 @@ const aldoTobing = {
 <div align="center">
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotobing&layout=compact&theme=dark)
-
-</div>
-
-## 📊 Activity Log
-
-```text
-🌅 Morning: Summoning containers with Docker spells
-🌞 Afternoon: Slaying bugs and optimizing queries
-🌙 Evening: Philosophical debates with rubber ducks
-🍺 Night: Contemplating if P equals NP over craft beer
-```
-
-## 🎯 Side Quests & Achievements
-
-<details>
-<summary>🏆 Achievement Unlocked: Master of Uptime</summary>
-
-```python
-while True:
-    maintain_high_availability()
-    if system.status != "up":
-        print("Wait, that's illegal!")
-        fix_immediately()
-    drink_coffee()
-```
-</details>
-
-<details>
-<summary>🚀 Level Up: Infrastructure Wizard</summary>
-
-- **Special Move**: Zero-downtime deployment roundhouse kick
-- **Ultimate Ability**: Server whispering
-- **Passive Skill**: Coffee-to-code conversion
-</details>
-
-## 🎵 Life Soundtrack
-<div align="center">
-
-| Time      | Sound                                  | Status                    |
-|-----------|----------------------------------------|---------------------------|
-| 🌅 Morning  | Coffee machine + Terminal clicking     | Productivity++;          |
-| 🌞 Afternoon| Systems humming + Deployment alerts    | git push -f (kidding!)   |
-| 🌙 Evening  | Beer bottles + Philosophy discussions  | brain.expand()           |
 
 </div>
 
